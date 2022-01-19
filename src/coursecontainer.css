@@ -1,0 +1,9 @@
+.Course-Container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+  padding: 150px 10px 10px;
+  width: auto;
+}

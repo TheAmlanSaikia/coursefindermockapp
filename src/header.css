@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+
+
+.headerMenu {
+  display: block;
+  width: 100%;
+  box-shadow: 20px 20px 50px rgb(0 0 0 / 50%);
+  backdrop-filter: blur(4.5px);
+  max-height: 150px;
+  position: fixed;
+  background: radial-gradient(#1fe4f5, #3fbafe);
+  border-bottom-left-radius: 100px;
+  top: 0;
+  z-index: 100;
+}
+
+h1 {
+  padding-top: 10px;
+  font-size: 3em;
+  padding-left: 50px;
+  font-family:'Dancing Script', cursive;
+  font-weight: 1000;
+  color: white;
+}
+
+.nav-small {
+  text-align: right;
+  font-size: 1.3em;
+  padding: 0 30px 0 0;
+}
